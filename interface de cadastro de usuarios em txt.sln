@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface de cadastro de usuarios em txt", "interface de cadastro de usuarios em txt.csproj", "{3A58D038-9AE0-44A3-9B63-5577D2E6717E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A58D038-9AE0-44A3-9B63-5577D2E6717E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A58D038-9AE0-44A3-9B63-5577D2E6717E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A58D038-9AE0-44A3-9B63-5577D2E6717E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A58D038-9AE0-44A3-9B63-5577D2E6717E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5FB037B-6E60-4FD8-8C2C-1850B74089A3}
+	EndGlobalSection
+EndGlobal

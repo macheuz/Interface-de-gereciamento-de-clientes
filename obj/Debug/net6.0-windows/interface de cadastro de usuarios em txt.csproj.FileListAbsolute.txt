@@ -1,0 +1,18 @@
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\bin\Debug\net6.0-windows\interface de cadastro de usuarios em txt.exe
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\bin\Debug\net6.0-windows\interface de cadastro de usuarios em txt.deps.json
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\bin\Debug\net6.0-windows\interface de cadastro de usuarios em txt.runtimeconfig.json
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\bin\Debug\net6.0-windows\interface de cadastro de usuarios em txt.dll
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\bin\Debug\net6.0-windows\interface de cadastro de usuarios em txt.pdb
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface de cadastro de usuarios em txt.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface_de_cadastro_de_usuarios_em_txt.Form1.resources
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface de cadastro de usuarios em txt.csproj.GenerateResource.cache
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface de cadastro de usuarios em txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface de cadastro de usuarios em txt.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface de cadastro de usuarios em txt.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface de cadastro de usuarios em txt.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface de cadastro de usuarios em txt.dll
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\refint\interface de cadastro de usuarios em txt.dll
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface de cadastro de usuarios em txt.pdb
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface de cadastro de usuarios em txt.genruntimeconfig.cache
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\ref\interface de cadastro de usuarios em txt.dll
+C:\Users\Matheus\Documents\Users Registration\programa de cadastro de usuarios\interface de cadastro de usuarios em txt\obj\Debug\net6.0-windows\interface_de_cadastro_de_usuarios_em_txt.formularioNovosUsuarios.resources
