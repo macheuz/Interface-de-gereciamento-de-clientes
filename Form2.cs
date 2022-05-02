@@ -14,9 +14,12 @@ namespace interface_de_cadastro_de_usuarios_em_txt
 {
     public partial class formularioNovosUsuarios : Form
     {
+        private Form1 formulario;
+
         private Usuario novo;
-        public formularioNovosUsuarios()
+        public formularioNovosUsuarios(Form1 formulario)
         {
+            this.formulario = formulario;
             InitializeComponent();
         }
         private Endereco retornaEndereco()
@@ -70,6 +73,7 @@ namespace interface_de_cadastro_de_usuarios_em_txt
             if (x)
             {
                MessageBox.Show("Cadastro com Sucesso");
+                this.Close();
             }
             else
             {
